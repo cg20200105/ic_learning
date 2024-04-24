@@ -1,8 +1,3 @@
-# 基于以下内容创作本代码，用于讲解DevOps精讲课Git与Github章节
-# https://www.bookstack.cn/read/backlog-git-tutorial/35.md
-# https://www.youtube.com/watch?v=tRZGeaHPoaw&ab_channel=KevinStratvert
-
-
 # 常用命令
 git XXX -h # 询问git XXX是啥意思
 git help XXX # 更详细的解释，打开一个本地html页面给你解释
